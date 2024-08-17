@@ -1,6 +1,6 @@
 ﻿emoji==2.12.1
 matplotlib==3.9.1
-pandas 2.2.2
+pandas==2.2.2
 seaborn==0.13.2
 streamlit==1.36.0
 uritools==4.0.3
