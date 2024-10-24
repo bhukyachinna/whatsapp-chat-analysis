@@ -1,4 +1,5 @@
-﻿emoji==2.12.1
+python==3.12.4
+emoji==2.12.1
 matplotlib==3.9.1
 pandas==2.2.2
 seaborn==0.13.2
